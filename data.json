@@ -16,7 +16,7 @@
 			"picture": "https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/front-end-kasa-project/profile-picture-12.jpg"
 		},
 		"rating": "5",
-		"location": "Paris 17",
+		"location": "Ile de France - Paris 17e",
 		"equipments": [
 			"Équipements de base",
 			"Micro-Ondes",
@@ -44,7 +44,7 @@
 			"picture": "https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/front-end-kasa-project/profile-picture-1.jpg"
 		},
 		"rating": "4",
-		"location": "Paris - 10ème",
+		"location": "Ile de France - Paris 10e",
 		"equipments": [
 			"Parking",
 			"Sèche Cheveux",
@@ -71,7 +71,7 @@
 			"picture": "https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/front-end-kasa-project/profile-picture-2.jpg"
 		},
 		"rating": "3",
-		"location": "Paris - 20ème",
+		"location": "Ile de France - Paris 20e",
 		"equipments": ["Wi-fi", "Cuisine équipée", "Télévision", "Sèche Cheveux"],
 		"tags": ["Buttes Chaumont", "Laumière", "Studio"]
 	},
@@ -91,7 +91,7 @@
 			"picture": "https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/front-end-kasa-project/profile-picture-1.jpg"
 		},
 		"rating": "3",
-		"location": "Paris - 11ème",
+		"location": "Ile de France - Paris 11e",
 		"equipments": [
 			"Micro-Ondes",
 			"Wi-fi",
@@ -119,7 +119,7 @@
 			"picture": "https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/front-end-kasa-project/profile-picture-2.jpg"
 		},
 		"rating": "5",
-		"location": "Paris 10",
+		"location": "Ile de France - Paris 10e",
 		"equipments": [
 			"Frigo Américain",
 			"Sèche Cheveux",
@@ -146,7 +146,7 @@
 			"picture": "https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/front-end-kasa-project/profile-picture-3.jpg"
 		},
 		"rating": "5",
-		"location": "Paris 18ème",
+		"location": "Ile de France - Paris 18e",
 		"equipments": ["Chambre Séparée", "Parking"],
 		"tags": ["Montmartre", "Culture", "Charme"]
 	},
@@ -166,7 +166,7 @@
 			"picture": "https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/front-end-kasa-project/profile-picture-4.jpg"
 		},
 		"rating": "3",
-		"location": "Paris 18ème",
+		"location": "Ile de France - Paris 18e",
 		"equipments": [
 			"Salle de bains",
 			"Frigo",
@@ -195,7 +195,7 @@
 			"picture": "https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/front-end-kasa-project/profile-picture-5.jpg"
 		},
 		"rating": "5",
-		"location": "Paris 6",
+		"location": "Ile de France - Paris 6e",
 		"equipments": [
 			"Wi-fi",
 			"Sèche Cheveux",
@@ -223,7 +223,7 @@
 			"picture": "https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/front-end-kasa-project/profile-picture-6.jpg"
 		},
 		"rating": "4",
-		"location": "14e arrondissement - Paris",
+		"location": "Ile de France - Paris 14e",
 		"equipments": [
 			"Climatisation",
 			"Machine à laver",
@@ -249,7 +249,7 @@
 			"picture": "https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/front-end-kasa-project/profile-picture-6.jpg"
 		},
 		"rating": "3",
-		"location": "Paris 11",
+		"location": "Ile de France - Paris 11e",
 		"equipments": [
 			"Vue Parc",
 			"Chauffage",
@@ -276,7 +276,7 @@
 			"picture": "https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/front-end-kasa-project/profile-picture-7.jpg"
 		},
 		"rating": "4",
-		"location": "Paris 11",
+		"location": "Ile de France - Paris 11e",
 		"equipments": ["Clic-clac", "Four", "Sèche Cheveux", "Wi-fi"],
 		"tags": ["Marais", "Studio", "Parc"]
 	},
@@ -296,7 +296,7 @@
 			"picture": "https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/front-end-kasa-project/profile-picture-8.jpg"
 		},
 		"rating": "3",
-		"location": "3e Paris",
+		"location": "Ile de France - Paris 3e",
 		"equipments": [
 			"Rangements",
 			"Lit",
@@ -324,7 +324,7 @@
 			"picture": "https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/front-end-kasa-project/profile-picture-8.jpg"
 		},
 		"rating": "5",
-		"location": "Ecouen - Paris IDF",
+		"location": "Ile de France - Ecouen",
 		"equipments": [
 			"SDB",
 			"Cuisine équipée",
@@ -351,7 +351,7 @@
 			"picture": "https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/front-end-kasa-project/profile-picture-9.jpg"
 		},
 		"rating": "4",
-		"location": "Arnouville - IDF",
+		"location": "Ile de France - Arnouville",
 		"equipments": [
 			"SDB",
 			"Cuisine équipée",
@@ -381,7 +381,7 @@
 			"picture": "https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/front-end-kasa-project/profile-picture-9.jpg"
 		},
 		"rating": "3",
-		"location": "Arnouville - IDF",
+		"location": "Ile de France - Arnouville",
 		"equipments": [
 			"Bouilloire",
 			"SDB",
@@ -413,7 +413,7 @@
 			"picture": "https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/front-end-kasa-project/profile-picture-10.jpg"
 		},
 		"rating": "3",
-		"location": "La Défense",
+		"location": "Ile de France - La Défense",
 		"equipments": [
 			"Baie vitrée",
 			"Télévision",
@@ -442,7 +442,7 @@
 			"picture": "https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/front-end-kasa-project/profile-picture-10.jpg"
 		},
 		"rating": "4",
-		"location": "Paris (Levallois)",
+		"location": "Ile de France - Levallois",
 		"equipments": [
 			"Télévision",
 			"Four",
@@ -466,7 +466,7 @@
 			"picture": "https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/front-end-kasa-project/profile-picture-4.jpg"
 		},
 		"rating": "2",
-		"location": "Paris 20",
+		"location": "Ile de France - Paris 20e",
 		"equipments": ["Bouilloire", "Wi-fi", "Micro-Ondes"],
 		"tags": ["Vue Parc", "Métros"]
 	},
@@ -485,7 +485,7 @@
 			"picture": "https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/front-end-kasa-project/profile-picture-11.jpg"
 		},
 		"rating": "4",
-		"location": "Paris 13",
+		"location": "Ile de France - Paris 13e",
 		"equipments": [
 			"Équipements de base",
 			"Four",
@@ -508,7 +508,7 @@
 			"picture": "https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/front-end-kasa-project/profile-picture-12.jpg"
 		},
 		"rating": "4",
-		"location": "Paris 13",
+		"location": "Ile de France - Paris 13e",
 		"equipments": [
 			"Wi-fi",
 			"Équipements de base",
